@@ -1,0 +1,60 @@
+# Site settings
+title: Sophie's world # 你的博客名字，可以定义修订
+header-img: "img/green02.jpg"
+tagline: "cn"  
+description: "這是我記錄學習生活的地方 This is my blog, including articles in all walks of life."  # 一句话描述你的博客
+baseurl: ""
+url: "http://constantsophie.com"  # 此处填写你的博客地址 
+
+# About/contact
+owner: 
+  name: "Sophie XIE 謝添" # 填写作者信息：名字
+  email: constantsophie@gmail163.com # 填写作者信息：邮箱
+  bio: "真心 初心 少女心，心心相映；才氣 人氣 祥瑞氣，氣氣充盈；狗年旺旺，添添向上~Tout va bien." # 填写作者信息：博客描述
+
+# Data
+gavatar: img/logo.jpg # 浏览器地址栏小图标，可自定义更改
+favicon: img/logo.jpg # 浏览器地址栏小图标，可自定义更改
+
+github_username: SophieCXT
+QQ Number: 449829887
+Wechat ID: constantsophie 
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Sophie XIE" # 你的名字
+      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+comments :
+  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
+  duoshuo :
+    short_name :  # 填写你的 disqus id
+  disqus :
+      short_name :  # 填写你的 disqus id
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:  # 填写你  google_analytics id
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
