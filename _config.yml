@@ -1,27 +1,24 @@
-# Site settings
-title: 博客名字 # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+-# Site settings
+title: Sophie's world # 你的博客名字，可以定义修订
+header-img: "img/green02.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "這是我記錄學習生活的地方 This is my blog, including articles in all walks of life."  # 一句话描述你的博客
 baseurl: ""
-url: "http://cnfeat"  # 此处填写你的博客地址 
+url: "http://constantsophie.com"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "作者名字" # 填写作者信息：名字
-  email: X@gmail.com # 填写作者信息：邮箱
-  bio: "你的博客描述" # 填写作者信息：博客描述
+  name: "Sophie XIE 謝添" # 填写作者信息：名字
+  email: constantsophie@gmail163.com # 填写作者信息：邮箱
+  bio: "真心 初心 少女心，心心相映；才氣 人氣 祥瑞氣，氣氣充盈；狗年旺旺，添添向上~Tout va bien." # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/logo.jpg # 浏览器地址栏小图标，可自定义更改
+favicon: img/logo.jpg # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+github_username: SophieCXT
+QQ Number: 449829887
+Wechat ID: constantsophie 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,7 +40,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "你的名字" # 你的名字
+      author: "Sophie XIE" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
