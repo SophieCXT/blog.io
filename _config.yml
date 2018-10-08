@@ -1,6 +1,6 @@
 # Site settings
 title: Sophie's world # 你的博客名字，可以定义修订
-header-img: "img/green02.jpg"
+header-img: "img/IMG_20181007_171510.jpg"
 tagline: "cn"  
 description: "這是我記錄學習生活的地方 This is my blog, including articles in all walks of life."  # 一句话描述你的博客
 baseurl: ""
@@ -14,7 +14,7 @@ owner:
 
 # Data
 gavatar: img/favicon.png  # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.ico # 浏览器地址栏小图标，可自定义更改
+favicon: img/bitbug_favicon.ico # 浏览器地址栏小图标，可自定义更改
 
 github_username: SophieCXT
 QQ Number: 449829887
@@ -41,20 +41,5 @@ defaults:
     values:
       layout: "post"
       author: "Sophie XIE" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/IMG_20181007_171510.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
-comments :
-  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
-  duoshuo :
-    short_name :  # 填写你的 disqus id
-  disqus :
-      short_name :  # 填写你的 disqus id
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:  # 填写你  google_analytics id
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Links to include in footer navigation
