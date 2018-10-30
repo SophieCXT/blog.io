@@ -7,7 +7,7 @@ tags: [标签一,标签二]
 description: Servlet
 ---
 
-#Key Words
+# Key Words
 动态网页生成技术：FORM servlet
 HTTP链接（connection）
 会话（session）
@@ -18,8 +18,8 @@ client pull
 提交给服务器的信息是名字－值对(name-value pair)
 Servlet
 
-#Content
-##1.	动态网页生成原理和HTTP connection
+# Content
+## 1.	动态网页生成原理和HTTP connection
 1）动态网页生成原理
 ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/WHU/2016-1-07-01.jpg)
 
