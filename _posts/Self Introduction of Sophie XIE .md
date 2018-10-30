@@ -3,8 +3,8 @@ layout: post
 title: Self Introduction of Sophie XIE 
 date: 2015-9-02
 categories: blog
-tags: [daily]
-description: Brief Introduction to myself,WHAT I DO NOW AND MY EXPERIENCE，MY GOALS AND PRINCIPLE
+tags: [daily,标签一]
+description: Brief Introduction to myself,WHAT I DO NOW AND MY EXPERIENCE，MY GOALS AND PRINCIPLE.
 ---
 
 # About me
