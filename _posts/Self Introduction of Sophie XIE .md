@@ -2,7 +2,7 @@
 layout: post
 title: Self Introduction of Sophie XIE 
 date: 2015-9-02
-categories: daily
+categories: blog
 tags: [daily]
 description: Brief Introduction to myself,WHAT I DO NOW AND MY EXPERIENCE，MY GOALS AND PRINCIPLE
 ---
