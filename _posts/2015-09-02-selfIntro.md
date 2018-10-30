@@ -3,7 +3,7 @@ layout: post
 title: Self Introduction of Sophie XIE 
 date: 2015-9-02
 categories: blog
-tags: [标签一,标签二]
+tags: [标签一]
 description: Brief Introduction to myself,WHAT I DO NOW AND MY EXPERIENCE，MY GOALS AND PRINCIPLE.
 ---
 
@@ -26,38 +26,35 @@ I'm fond of making friends because I admire and want to know more about various 
 
 ## My Goals and Pronciple
 
-###Short term target:
+- Short term target:
 pick up java and english as soon as possible.
 go to the library to finish the article about Zeng Guo Fan.
 have romantic relationships with sb on the compus!
 
-###Long term target:
+- Long term target:
 to be the Ambassadress of Chinese culture.
 help more people.
 run a charity enterprise.
 
-###My Principle:
+- My Principle:
 health first,
 family second,
 study third,
 then something else!
 
 ## My Skills
-PS图片处理
+- PS图片处理
+- HTML/CSS网页
+- Chinese painting国画
+- handwriting书法
 
-HTML/CSS网页
+- Dance名族舞、国标（摩登、拉丁）
 
-Chinese painting国画
+- Piano钢琴
 
-handwriting书法
+- Archery射箭
 
-Dance名族舞、国标（摩登、拉丁）
-
-Piano钢琴
-
-Archery射箭
-
-And so on等等
+- And so on等等
 
 
 
