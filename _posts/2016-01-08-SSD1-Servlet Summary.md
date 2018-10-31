@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Servlet Summary
 date: 2016-1-08
 categories: blog
-tags: Software Systems Development1(SSD1)
+tags: SSD1(Software Systems Development1--Introduction to Information System)
 description: Servlet
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Test Questions
 date: 2016-1-09
 categories: blog
-tags: Software Systems Development1(SSD1)
+tags: SSD1(Software Systems Development1--Introduction to Information System)
 description: Questions in the final exam.Students who enrolled this class can look my blog as a reference.
 ---
 
