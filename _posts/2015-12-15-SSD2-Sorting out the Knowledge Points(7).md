@@ -3,7 +3,7 @@ layout: post
 title: SSD2-Review(The answer of the last post)
 date: 2015-12-21
 categories: blog
-tags: Software Systems Development2(SSD2)
+tags: [Software Systems Development(SSD),SSD1]
 description: SSD2 
 ---
 
