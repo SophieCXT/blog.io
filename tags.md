@@ -14,17 +14,19 @@ header-img: "img/semantic.jpg"
 
 ## 基因列表
 
-
 <div id='tag_cloud'>
 {% for tag in site.tags %}
+
+<a href="# {{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}" style="color:#00C5CD; font-size:x-large; font-weight: bold;"> {{ tag[0] }}</a>
 <br>
-<a href="# {{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}" style="color:#8CC7B5; font-size:x-large"> {{ tag[0] }}</a>
+
 {% endfor %}
 </div>
 
-<ul class="listing">
+<ul class="listing" >
 {% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
+  <li class="listing-seperator" id="{{ tag[0] }}" style="color:#00C5CD; font-size:large; font-weight: bold;" type="square">{{ tag[0] }}</li>
+  
 {% for post in tag[1] %}
   <li class="listing-item">
   <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
