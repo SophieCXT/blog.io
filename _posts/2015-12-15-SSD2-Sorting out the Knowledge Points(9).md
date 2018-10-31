@@ -3,7 +3,7 @@ layout: post
 title: SSD2-Review(Answer to unit 4, the outline of last post)
 date: 2015-12-24
 categories: blog
-tags: [标签一,标签二]
+tags: [Study, Software Systems Development2(SSD2)]
 description: SSD2 - Answer to unit 4, the outline of last post
 ---
 

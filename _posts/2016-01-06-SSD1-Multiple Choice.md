@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Multiple Choice 
 date: 2016-1-07
 categories: blog
-tags: [标签二]
+tags: [Study, Software Systems Development1(SSD1)]
 description: SSD1 
 ---
 

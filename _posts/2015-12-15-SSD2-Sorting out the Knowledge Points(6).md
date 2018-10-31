@@ -3,7 +3,7 @@ layout: post
 title: SSD2-General outline and requirements
 date: 2015-12-20
 categories: blog
-tags: [标签一,标签二]
+tags: [Study, Software Systems Development2(SSD2)]
 description: SSD2 - General outline and requirements 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Servlet Summary
 date: 2016-1-08
 categories: blog
-tags: [标签一,标签二]
+tags: [Study, Software Systems Development1(SSD1)]
 description: Servlet
 ---
 
