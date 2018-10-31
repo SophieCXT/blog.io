@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Test Questions
 date: 2016-1-09
 categories: blog
-tags: [标签一,标签二]
+tags: [study]
 description: Questions in the final exam.Students who enrolled this class can look my blog as a reference.
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Review of the Knowledge Points(1)
 date: 2016-1-10
 categories: blog
-tags: [标签一,标签二]
+tags: study
 description: SSD1-Review of the Knowledge Points. From Chapter_01 to Chapter_09
 ---
 
