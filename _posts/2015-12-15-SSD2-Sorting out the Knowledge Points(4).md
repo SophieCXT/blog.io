@@ -3,7 +3,7 @@ layout: post
 title: SSD2-Sorting out the Knowledge Points(4)
 date: 2015-12-18
 categories: blog
-tags: [Study, Software Systems Development2(SSD2)]
+tags: Software Systems Development2(SSD2)
 description: SSD2 - to give the english technical words and its translation
 ---
 

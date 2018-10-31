@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Review of the Knowledge Points(3)
 date: 2016-1-12
 categories: blog
-tags: [Study, Software Systems Development1(SSD1)]
+tags: Software Systems Development1(SSD1)
 description: SSD1-Review of the Knowledge Points. From Chapter_01 to Chapter_09.
 ---
 
