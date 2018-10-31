@@ -22,7 +22,6 @@ header-img: "img/semantic.jpg"
 
 {% endfor %}
 </div>
-<br>
 
 <ul class="listing" >
 {% for tag in site.tags %}
