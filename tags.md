@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Tags"
-description: "哈哈，你找到了我的文章基因库"  
+description: "Hah！You found my article gene library~"  
 header-img: "img/semantic.jpg"  
 ---
 ## 基因列表 List of Tags
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
-※ <p style="color:#00868B; font-size:x-large; font-weight: bold;"> {{ tag[0] }}</p>
+<p style="color:#00868B; font-size:x-large; font-weight: bold;"> {{ tag[0] }}</p>
 {% endfor %}
 </div>
 
@@ -25,14 +25,3 @@ header-img: "img/semantic.jpg"
 {% endfor %}
 {% endfor %}
 </ul>
-
-<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
-<script language="javascript">
-$.fn.tagcloud.defaults = {
-    size: {start: 1, end: 1, unit: 'em'},}
-};
-
-$(function () {
-    $('#tag_cloud a').tagcloud();
-});
-</script>
