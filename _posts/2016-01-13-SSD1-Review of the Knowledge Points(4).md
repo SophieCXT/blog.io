@@ -3,7 +3,7 @@ layout: post
 title: SSD1-Review of the Knowledge Points(4)
 date: 2016-1-13
 categories: blog
-tags: SSD1(Software Systems Development1--Introduction to Information System)
+tags: [Software Systems Development(SSD),SSD1]
 description: SSD1-Review of the Knowledge Points. From Chapter_01 to Chapter_09.
 ---
 # SSD1-Review of the Knowledge Points(4)
