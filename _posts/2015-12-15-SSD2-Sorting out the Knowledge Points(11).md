@@ -3,7 +3,7 @@ layout: post
 title: SSD2-Excercises in each Chapter
 date: 2015-12-22
 categories: blog
-tags: [Study, Software Systems Development2(SSD2)]
+tags: [Software Systems Development(SSD),SSD2]
 description: SSD2 - Excercises in each Chapter
 ---
 
