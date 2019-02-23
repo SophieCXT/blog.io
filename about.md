@@ -9,4 +9,4 @@ header-img: "img/green.jpg"
 ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/CV/English-2.jpg)
 
 ## Chinese Edition
-  ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/CV/Chinese-1.jpg)
+  ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/CV/Chinese-2.jpg)
