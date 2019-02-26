@@ -17,7 +17,7 @@ description: FAQ for Chinese students who think about getting further education 
 ---
 
 ### 框架
-**主要分为以下四个部分：**
+**主要分为以下六个部分：**
 - 出国小白如何升级
 - 海外科研如何找（涉及到推荐信）
 - 出国和保研是否冲突
