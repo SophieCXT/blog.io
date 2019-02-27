@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ for Students Who Think About Getting Further Education Abroad
+title: The First Issue of FAQ for Students Who Think About Getting Further Education Abroad
 date: 2019-02-22
 categories: blog
 tags: Daily

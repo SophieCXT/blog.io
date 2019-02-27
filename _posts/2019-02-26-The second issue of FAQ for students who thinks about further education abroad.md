@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: The second issue of FAQ for Students Who Think About Getting Further Education Abroad
+title: The Second Issue of FAQ for Students Who Think About Getting Further Education Abroad
 date: 2019-02-26
 categories: blog
 tags: Daily
@@ -10,11 +10,11 @@ description: FAQ for Chinese students who think about getting further education 
 # 出国的FAQ第二期
 
 ## 前言
-最近有很多学弟学妹们问我关于`出国`的一些问题。下面是第二期FAQ，部分被问的问题的展示（个性化的敏感问题我会单独语音回复）。（目前这个网页没有太多时间修改。界面美观什么不好看的，请见谅。(⑅˃◡˂⑅)也希望有大佬和我一起完善内容）我现在在调整生物钟，晚上十点以后休息，有任何问题请留言，我将在第二天早晨回复。
+最近有很多学弟学妹们问我关于`出国`的一些问题。下面是第二期FAQ，部分被问的问题的展示（个性化的敏感问题我会**单独语音**回复）。（目前这个网页没有太多时间修改。界面美观什么不好看的，请见谅。(⑅˃◡˂⑅)也希望有大佬和我一起完善内容）我现在在调整生物钟，晚上十点以后休息，有任何问题请留言，我将在第二天早晨回复。
 
 后期可能会出第三期，有时间的话会完善海外科研的一些生活和科研上的经历，敬请期待꒰⌗´͈ ᵕ `͈⌗꒱৩
 
-If you have any further questions, please feel free to contact me through email. Please attach your name, school, grade with 出国问题询问 in your subject. My E-mail is constantsophie@163.com. P.S., if it's urgent, please tell me in avance, I'll try my best to answer you in time.
+If you have any further questions, please feel free to contact me **through email**. Please attach your name, school, grade with **出国问题询问 in your subject**. My E-mail is constantsophie@163.com. P.S., if it's urgent, please tell me in avance, I'll try my best to answer you in time.
 
 ---
 
@@ -38,7 +38,7 @@ If you have any further questions, please feel free to contact me through email.
 
 `R:`不是我有两段研究经历：一段是在UC Berkeley，一段是在SUNY buffalo。
 
-可能大家一直对我目前的很多信息不太了解，我目前统一介绍一下，（可能我部分朋友都已经知道了解了，)但学弟学妹们应该还不太清楚。我是申请博士，去美国直博。
+可能大家一直对我目前的很多信息不太了解，我目前**统一介绍一下**，（可能我部分朋友都已经知道了解了，)但学弟学妹们应该还不太清楚。我是申请博士，去美国直博。
 其实之前是想美国硕士的，国内也已经买了两套房子为将来回国做打算（有一套百瑞景六期目前想卖，九十平，有需求可以找我，对同学老师优惠），但是后来我在海外做了两段海外科研，接触了不少博士生，觉得直博更加适合我。**毕竟我并不是以就业为导向来学习的**，硕士对我来说时间短了一点，我接触到的读硕士的学长学姐也说过，两年的时间很短，一进学校除了上课就要开始刷题准备面试，时间非常紧凑。另外我对大城市接触的太多了，对宁静的生活向往许久，Berkeley还有SUNY这两个地方我都能很快的适应。（所以海外科研还是很有用的，你在那边待了一段时间以后可能就会改变之前的所有想法，在那里碰到的同学也能给你灵感，让你思考未来想成为怎样的自己）
 
 ### 暑研的相关问题
@@ -77,6 +77,6 @@ If you have any further questions, please feel free to contact me through email.
 
 **`Q:`学姐，我想请问你一下到美国学校暑研你办的是什么签证呀？我套到ucsb的老师，还没商量签证问题，查了查感觉有点犯难……感觉B1, F1, J1好像都多多少少有不太合适的地方？**
 
-`R:`最适合的签证是J1，像我们这种应该叫访问学者签证，访问学者签证一般都需要学校的教务老师负责帮你做，我这里说的学校是指海外的科研学校。你说的其他两个没有遇到也很正常，毕竟你现在还比较小。B2是旅游签证,F1是学生签证，但这个是指我们正式出国到那个国家进行学习的时候才会拿的签证类型。J1一般是需要一个月左右，学校把表格发给你，然后一个月左右弄好面签的事情，所以保险起见的话，暑假去之前的三个月一定要开始准备这件事情。部分同学在时间紧张的情况下会选择旅游签证就是b2，这样会比较快。但这样其实是不合法的，如果你在申请b的时候请不要填写自己会待那么长时间，一般正常的旅游时间，一两个星期都可以了。因为现在面前会越来越严格。
+`R:`**最适合**的签证是J1，像我们这种应该叫**访问学者**签证，访问学者签证一般都需要学校的教务老师负责帮你做，我这里说的学校是指海外的科研学校。你说的其他两个没有遇到也很正常，毕竟你现在还比较小。B2是旅游签证,F1是学生签证，但这个是指我们正式出国到那个国家进行学习的时候才会拿的签证类型。J1一般是需要一个月左右，学校把表格发给你，然后一个月左右弄好面签的事情，所以**保险起见**的话，暑假去之前的三个月一定要开始准备这件事情。部分同学在**时间紧张**的情况下会选择旅游签证就是b2，这样会比较快。但这样其实是不合法的，如果你在申请b的时候请不要填写自己会待那么长时间，一般正常的旅游时间，一两个星期都可以了。因为现在面前会越来越严格。
 （这方面有一些trick，我后来单独和学妹说了，你们如果也有类似的问题请联系我）
 ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/daily/answerFAQ.png)
