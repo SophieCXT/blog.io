@@ -39,6 +39,7 @@ I choose the option 1 so that this tutorial is aiming at Mininet VM Installation
 ## Run the VM on VirtualBox
 The next step's website we refers is: 
 >http://mininet.org/vm-setup-notes/
+
 1. launch VirtualBox
 2. double-click on the `mininet-2.2.2-170321-ubuntu-14.04.4-server-amd64.ovf ` file, the VirtualBox will automatically generate the following config:
 ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/20200324.PNG)
@@ -84,11 +85,12 @@ ifconfig eth1
 
 ***Now you can do whatever you want! The links below are some references for your further development! ***
 
+- Optional VM Customization:
+>http://mininet.org/vm-setup-notes/
 
+- Mininet Walkthrough(Highly recommended, which shows common commands. **It’ll be really useful.**)
+>http://mininet.org/walkthrough/
 
-
-
-
-
-
+- Introduction to Mininet: this document is meant to give you a brief sense of what Mininet is and how it works, including a basic introduction to Mininet's Python API, the core of Mininet's functionality that you will usually want to use to create networks and run experiments.
+>https://github.com/mininet/mininet/wiki/Introduction-to-Mininet
 
