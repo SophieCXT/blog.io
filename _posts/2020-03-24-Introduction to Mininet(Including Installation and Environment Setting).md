@@ -21,7 +21,7 @@ I choose the option 1 so that this tutorial is aiming at Mininet VM Installation
                                                         
   Here I choose: `mininet-2.2.2-170321-ubuntu-14.04.4-server-amd64.zip` because my computer is win 10, 64 bit.
   2. Right click the zip file to 'extract all' in the directory you want, you will get these two files: 
-  ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24.PNG)
+  ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24.jpg)
 
 ---
 - VirtualBox
@@ -33,7 +33,7 @@ I choose the option 1 so that this tutorial is aiming at Mininet VM Installation
   2. double click yor download file: `VirtualBox-6.1.4-136177-Win`
   3. use its default setting.(you can change the folder from `C:/` to `D:/` if you want.)
   4. launch the software, you will seccessfully see the following UI:
-   ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/VBUI.PNG)
+   ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/VBUI.jpg)
 
 
 ## Run the VM on VirtualBox
@@ -42,19 +42,19 @@ The next step's website we refers is:
 
 1. launch VirtualBox
 2. double-click on the `mininet-2.2.2-170321-ubuntu-14.04.4-server-amd64.ovf ` file, the VirtualBox will automatically generate the following config:
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/20200324.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/20200324.jpg)
 3. change the `machine base folder` (I set D:\research_TingLab\TestMininet )to the location you want and click `import`.
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24import.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24import.jpg)
 4. wait a few seconds, you will get the VM in your VirtualBox Manager:
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24suc.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24suc.jpg)
 6. add a host-only network interface to your VM: 
      - click `setting`
-     ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-01.PNG)
+     ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-01.jpg)
      - click `Network`, don't change the Adapter 1(it will be initial ethernet 0). click Adapter 2 and check `Enable Network Adapter`. Then choose host-only like below:
-     ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-02.PNG)
+     ![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-02.jpg)
     - click 'OK'
 5. double-click or click the `Start` button to run the VM.
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-03.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-03.jpg)
 
 
 ## Log in to VM
@@ -65,14 +65,14 @@ mininet-vm login: mininet
 Password: mininet
 ```
 It runs like this:
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-04.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-04.jpg)
 
 ## SSH into VM
 First, find the VM’s IP address, which for VMware is probably in the range 192.168.x.y. In the VM console:
 ```
 ifconfig eth0
 ```
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-05.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-05.jpg)
 You will see the `inet addr` is 192.168.56.102(You may get a different ip address, don't worry, that's normal)
 
 Note: As we VirtualBox users have set up a host-only network on `eth1`, we then should use:
@@ -80,7 +80,7 @@ Note: As we VirtualBox users have set up a host-only network on `eth1`, we then 
 sudo dhclient eth1   # make sure that eth1 has an IP address
 ifconfig eth1
 ```
-![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-06.PNG)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/research/2020-03-24-06.jpg)
 
 
 ***Now you can do whatever you want! The links below are some references for your further development! ***
