@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Funny/High Efficiency way to merge in Github/WSL/Return from Root to My User in Unbuntu on Windows 
-date: 2020-03-2
+date: 2020-03-27
 categories: blog
 tags: Research
 description: I found that there are several ways incorrect on the Internet Q&A so I tried to write small notes of the tricks I learned recently.  Eg., Funny/High Efficiency way to merge in Github, Return from Root to My User in Unbuntu on Windows, Soft wrap in VS Code, Install the Toolkit for VS Code, Connect VS Code with AWS. 
@@ -40,6 +40,7 @@ Ref:
 ## Funny/High Efficiency way to merge in Github
 
 >(Xusheng taught me this, where he picked it up in Industrial Area, Amazon I suppose.)
+
 ```
 #approach 1
 git stash
