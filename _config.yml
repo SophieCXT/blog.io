@@ -41,5 +41,5 @@ defaults:
     values:
       layout: "post"
       author: "Sophie XIE" # 你的名字
-      header-img: "img/IMG_20181007_171510.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/IMG_0459.JPG" # We don't want posts without a header image, that whould mean white on white
 
