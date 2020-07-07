@@ -4,8 +4,7 @@ title: Travel Plan: California-Utah-Arizona-Nevada(Jan 2020)
 date: 2020-06-13
 categories: blog
 tags: Daily
-description:
-hotel, restaurant, tour, timeline, Featured Places
+description: hotel, restaurant, tour, timeline, Featured Places
 , cost.
 ---
 

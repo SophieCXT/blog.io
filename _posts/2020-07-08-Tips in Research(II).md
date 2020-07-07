@@ -4,11 +4,7 @@ title: Tips in Research(II)
 date: 2020-07-08
 categories: blog
 tags: Research
-description:
-7. 将CMD信息保存为文件
-8. What is Monte Carlo Simulation?
-9. Soft Wraps in Pycharm
-10. wireshark
+description:7. 将CMD信息保存为文件 8. What is Monte Carlo Simulation? 9. Soft Wraps in Pycharm 10. wireshark
  
 ---
 
