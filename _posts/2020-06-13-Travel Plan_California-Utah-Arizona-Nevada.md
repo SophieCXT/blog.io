@@ -8,7 +8,7 @@ description: hotel, restaurant, tour, timeline, Featured Places, cost.
 
 ---
 
-
+## hotel, restaurant, tour, timeline, Featured Places, cost.
 
 <object data="https://github.com/SophieCXT/blog.io/raw/master/file/Travel%20Plan.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/SophieCXT/blog.io/raw/master/file/Travel%20Plan.pdf">
