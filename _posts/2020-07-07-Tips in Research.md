@@ -4,18 +4,17 @@ title: Tips in Research
 date: 2020-07-05
 categories: blog
 tags: Research
-description:
+description: 如何快速在线生成latex表格\How to exit Startx?\How to push large files in github**(not matured than dropbox and onedrive)**\How to Fix Server Not Found Error in Ubuntu in Vmware Workstation\Matlab readfile in pile\MATLAB中的常用清除命令有哪些
+
+---
+
+
 1. 如何快速在线生成latex表格
 2. How to exit Startx?
 3. How to push large files in github**(not matured than dropbox and onedrive)**
 4. How to Fix Server Not Found Error in Ubuntu in Vmware Workstation
 5. Matlab readfile in pile
 6. MATLAB中的常用清除命令有哪些
-
----
-
-
-
 ## 如何快速在线生成latex表格
 
  `https://www.tablesgenerator.com/`
