@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Travel Plan: California-Utah-Arizona-Nevada(Jan 2020)
-date: 2020-06-13
+title: California-Utah-Arizona-Nevada(Jan 2020)
+date: 2020-06-12
 categories: blog
 tags: Daily
 description: it happened in the Jan, 2020. We went to Pittsburg, San Francisco, driving the No.1 high way, stopping at Los Angles, going to the Yosemite national park, then going to Las Vagas, finally going to the Grand Canyon and the antilope Canyon in Arizona, Utah, Nevada.
-
+ 
 ---
+
+
 
 ## hotel, restaurant, tour, timeline, Featured Places, cost.
 
