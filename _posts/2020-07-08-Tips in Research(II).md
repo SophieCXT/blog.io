@@ -9,12 +9,10 @@ description:
 8. What is Monte Carlo Simulation?
 9. Soft Wraps in Pycharm
 10. wireshark
-
-
  
 ---
-Ref:
->
+
+
 
 ## 将CMD信息保存为文件
 在使用Windows中的cmd.exe工具时，有时候我们想要把我们的输入命令及结果保存起来，但是用复制的方法过于麻烦；有时输出数据条数过大，会造成内容自动滚出屏幕，无法阅读，我们可将命令运行的结果输出到文本文件。如何将cmd中命令输出为TXT文本文件呢？

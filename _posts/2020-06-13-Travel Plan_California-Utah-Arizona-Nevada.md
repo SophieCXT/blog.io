@@ -3,13 +3,14 @@ layout: post
 title: Travel Plan: California-Utah-Arizona-Nevada(Jan 2020)
 date: 2020-06-13
 categories: blog
-tags: Research
+tags: Daily
 description:
 hotel, restaurant, tour, timeline, Featured Places
 , cost.
-
- 
 ---
+
+
+
 <object data="https://github.com/SophieCXT/blog.io/raw/master/file/Travel%20Plan.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/SophieCXT/blog.io/raw/master/file/Travel%20Plan.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/SophieCXT/blog.io/raw/master/file/Travel%20Plan.pdf">Download PDF</a>.</p>
