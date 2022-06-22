@@ -1,14 +1,29 @@
 ---
 layout: page
-title: "milestone"
+title: "Milestone"
 description: "Wall of Fame & Honor"
 header-img: "img/zhihu.jpg"
 ---
 # Honor of Prize
-National third place of "Health Qigong Baduanjin"
-National Champion of "Health Qigong Yijinjing"
+National Champion of "Health Qigong Yijinjing"; National third place of "Health Qigong Baduanjin".
 
 # Research Experiences
+## Research Assistant | Joint Caching and Routing in Network Cache | PSU                                   Sep 2020- Present
+>Joint Caching and Routing in Cache Networks with Arbitrary Topology
+Advisor: Ting He, Associate Professor, Electrical Engineering and Computer Science, PSU, University Park
+	Formulated joint caching and routing problem as optimization that minimizes the total routing cost.
+	Considered both simple content replication (integral caching) with single-path routing (integral routing) and caching fractions of coded content (fractional caching) with multi-path routing (fractional routing).
+	Developed efficient algorithms, with focus on the hardest case of integral caching and integral routing.
+	Tian Xie,Sanchal Thakkar, Ting He, Patrick McDaniel, and Quinn Burke. Attack Resilience of Cache Replacement Policies. IEEE International Conference on Distributed Computing Systems 2022 (ICDCS), Bologna, Italy.
+## Research Assistant | Flow Table Security in SDN | PSU                                                                 Sep 2019- Present
+>Attack Resilience of Cache Replacement Policies
+Advisor: Ting He, Associate Professor, Electrical Engineering and Computer Science, PSU, University Park
+	Developed a scheme to adapt the cache replacement policy based on the perceived level of attack
+	Analyzed a suite of representative replacement policies under the framework of TTL approximation
+	Validated experiments on real traces to show the good performance of adapting the replacement policy can notably improve the attack resilience of the cache
+	Tian Xie, Ting He, Patrick McDaniel, Namitha Nambiar. Attack Resilience of Cache Replacement Policies. IEEE International Conference on Computer Communications 2021 (INFOCOM), Virtual. 
+	Two IEEE/ACM Transactions on Networking (ToN) Journal accpeted.
+
 ## Project Leader | Chat Robot in Education of Technology | WHU                                          Jan 2018- Aug 2018
 > A Teaching Automatic Question Answering System applied in the Pattern Recognition class in WHU
 Advisor: Weiping Zhu, Assistant Professor, School of Computer Science, Wuhan University
@@ -52,7 +67,7 @@ Advisor: Tab Zhang, Lead Game Designer, Tencent
 	Emploied the EasyTouch and NGUI Unity plug-ins to let the game become more user friendly
 	Obtained prize money of 10,000 RMB, ranking the No.1 in all teams, and got an offer invitation from the Lead Game Designer
 # Leadership & Activities
-## Chairman | Hubei Xie Taitai Culture and Film Technology Co., Ltd.                                         Sep 2015- Present
+## Chairman | Hubei Xie Taitai Culture and Film Technology Co., Ltd.                                         Sep 2015- May 2022
 > 	Tackled projects and contracts in fields of art, movies, short videos, special effects processing, etc. 
 	Made profits of 200,000 RMB
 	Contracted three major program as project manager 
