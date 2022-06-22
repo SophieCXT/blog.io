@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IEEE ICDCS Conference Papaer Accepted
+title: 2022 IEEE ICDCS Conference Paper Accepted
 date: 2022-04-04
 categories: blog
 tags: Research
