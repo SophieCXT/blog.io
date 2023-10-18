@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  IEEE TPDS Paper Accepted
+title: IEEE TPDS Paper Accepted
 date: 2023-05-10
 categories: blog
 tags: Research
