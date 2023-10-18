@@ -4,9 +4,12 @@ title: IEEE TPDS Paper Accepted
 date: 2023-05-10
 categories: blog
 tags: Research
-description: The first paper is an outcome of our SaTC project in collaboration with Prof. Patrick McDaniel@Wisconsin: Tian Xie, Sanchal Thakkar, Ting He, Patrick McDaniel, and Quinn Burke, Joint Caching and Routing in Cache Networks with Arbitrary Topology, accepted to IEEE Transactions on Parallel and Distributed Systems, May 2023.
+description: Tian Xie, Sanchal Thakkar, Ting He, Patrick McDaniel, and Quinn Burke, Joint Caching and Routing in Cache Networks with Arbitrary Topology, accepted to IEEE Transactions on Parallel and Distributed Systems, May 2023.
 
 ---
+
+## Description:
+The first paper is an outcome of our SaTC project in collaboration with Prof. Patrick McDaniel@Wisconsin: Tian Xie, Sanchal Thakkar, Ting He, Patrick McDaniel, and Quinn Burke, Joint Caching and Routing in Cache Networks with Arbitrary Topology, accepted to IEEE Transactions on Parallel and Distributed Systems, May 2023.
 
 ## Summary
 
