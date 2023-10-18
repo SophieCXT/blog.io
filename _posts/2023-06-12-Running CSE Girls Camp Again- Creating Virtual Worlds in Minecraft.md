@@ -23,7 +23,8 @@ The Girls Who Code & CSE Camp is a five-day, in-person event tailored for girls 
 
 ## Hands-On Learning
 At the camp, campers are exposed to the fascinating world of Minecraft. But, it's not all fun and games. They are given the creative freedom to design virtual worlds within Minecraft and then dive into the world of programming to bring these virtual worlds to life. Campers learn how to infuse objects with simple AI, enabling them to move and interact within the virtual landscapes they've created. This hands-on experience in programming and AI is a fantastic introduction to the core concepts of computational thinking.
-
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/GWC2.jpg)
+![](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/GWC3.jpg)
 ## The Role of a Counselor
 As a volunteer counselor, I had the honor of guiding and mentoring these young minds on their journey. I helped facilitate discussions and coding sessions in Python and C#, as well as instructed campers in Android-based VR and AR programming using Unity 3D. This included helping them create demos and 3D drawings, truly immersing them in the world of technology.
 

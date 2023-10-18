@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer Internship at HWS- A Journey of Innovation and Achievement
+title: Summer Internship at HWS - A Journey of Innovation and Achievement
 date: 2023-09-22
 categories: blog
 tags: Industrial Experiences
