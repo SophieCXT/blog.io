@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summer Internship at HWS: A Journey of Innovation and Achievement
+title: Summer Internship at HWS- A Journey of Innovation and Achievement
 date: 2023-09-22
 categories: blog
 tags: Industrial Experiences
@@ -26,14 +26,22 @@ A critical aspect of my work was making the technology accessible. I added a Gra
 
 ## Real-World Testing
 To validate our innovations, we conducted rigorous testing in the field. Our software was put to the test, proving its capabilities under real-world conditions. We successfully tested it at depths of up to 30,000 feet in a gas well, further demonstrating its reliability and effectiveness.
-| Screenshot 1 | Screenshot 2 |
+
+|     Screenshot 1     |     Screenshot 2     |
+|:---------------------:|:---------------------:|
+| ![Screenshot 3](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot3.png) | ![Screenshot 4](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot4.png) |
+
+|     Screenshot 3     |     Screenshot 4     |
+|:---------------------:|:---------------------:|
+| ![Screenshot 1](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot1.png) | ![Screenshot 2](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot2.png) |
+
+
+<!--| Screenshot 1 | Screenshot 2 |
 |:------------:|:------------:|
 | ![Screenshot 1](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot1.png) | ![Screenshot 2](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot2.png) |
 | Screenshot 3 | Screenshot 4 |
 | ![Screenshot 3](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot3.png) | ![Screenshot 4](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/screenshot4.png) |
 
-
-<!--
 This is a multi-line comment.
 It can span across multiple lines, and it won't be displayed when rendered.
 [](https://raw.githubusercontent.com/SophieCXT/blog.io/master/img/PSU/Tian-CSE-Girls-Camp-2022-300x200.jpg)
