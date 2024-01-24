@@ -1,15 +1,13 @@
 ---
 layout: post
-title: A Milestone Achieved--Successfully Defended PhD Dissertation in Resilient Cache Network Management
+title: A Milestone Achieved - Successfully Defended PhD Dissertation
 date: 2024-01-18
 categories: blog
 tags: Research
-description: Today signifies a significant milestone in my academic journey as I triumphantly defended my doctoral dissertation titled "Resilient Cache Network Management with Algorithms, Analysis, and Experiments." Embarking on this five-year odyssey has been a testament to unwavering dedication, relentless research pursuits, and collaborative endeavors that have left an enduring impact on the field of networking.
+description: Today signifies a significant milestone in my academic journey as I triumphantly defended my doctoral dissertation.
 
  
 ---
-
-
 ## Introduction
 Today signifies a significant milestone in my academic journey as I triumphantly defended my doctoral dissertation titled "Resilient Cache Network Management: Algorithms, Analysis, and Experiments." Embarking on this five-year odyssey has been a testament to unwavering dedication, relentless research pursuits, and collaborative endeavors that have left an enduring impact on the field of networking.
 
